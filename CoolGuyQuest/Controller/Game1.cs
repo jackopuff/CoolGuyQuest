@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace MemeDream
+namespace CoolGuyQuest.Controller
 {
 	/// <summary>
 	/// This is the main type for your game.

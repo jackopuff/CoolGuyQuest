@@ -11,7 +11,7 @@ using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace Platformer
+namespace CoolGuyQuest.Model
 {
     /// <summary>
     /// Facing direction along the X axis.

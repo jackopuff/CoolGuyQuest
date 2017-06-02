@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/MemeDream-master 2/MemeDream/View/Tile.cs">
+    <Files>
+      <File FileName="../../Downloads/MemeDream-master 2/MemeDream/View/Animation.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/MemeDream-master 2/MemeDream/View/AnimationPlayer.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/MemeDream-master 2/MemeDream/View/Circle.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/MemeDream-master 2/MemeDream/View/PlatformerGame.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/MemeDream-master 2/MemeDream/View/RectangleExtensions.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/MemeDream-master 2/MemeDream/View/Tile.cs" Line="14" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>MemeDream/MemeDream.csproj</String>
+  </DisabledProjects>
+</Properties>

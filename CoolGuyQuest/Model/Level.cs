@@ -16,7 +16,7 @@ using Microsoft.Xna.Framework.Audio;
 using System.IO;
 using Microsoft.Xna.Framework.Input;
 
-namespace Platformer
+namespace CoolGuyQuest.Model
 {
     /// <summary>
     /// A uniform grid of tiles with collections of gems and enemies.

@@ -13,7 +13,7 @@ using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Platformer
+namespace CoolGuyQuest.Model
 {
     /// <summary>
     /// Our fearless adventurer!

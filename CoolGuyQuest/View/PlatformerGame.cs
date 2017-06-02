@@ -15,7 +15,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
 
-namespace Platformer
+namespace CoolGuyQuest.View
 {
     /// <summary>
     /// This is the main type for your game
